@@ -1,0 +1,19 @@
+.bg-patron{
+        background-image: url("../img/patron.png");
+        background-position: center;
+        background-size: cover;
+        
+        }
+        
+        .signo{
+        overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+        }
+        
+        .horoscopo{
+        font-weight: 800;
+        font-size: 3rem;
+        }
